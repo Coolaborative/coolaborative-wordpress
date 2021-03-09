@@ -1,3 +1,2 @@
-⚡️ Coolaborative WordPress Theme ⚡️
-Blank Theme for Oxygen Builder
-
+#⚡️ Coolaborative WordPress Theme ⚡️
+Blank Theme for Oxygen Builder ⚡️ Visit our site: https://coolaborative.com/
