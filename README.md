@@ -1,2 +1,3 @@
-# Coolaborative Theme
-Theme for Oxygen User
+⚡️ Coolaborative WordPress Theme ⚡️
+Blank Theme for Oxygen Builder
+
